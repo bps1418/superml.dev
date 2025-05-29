@@ -1,0 +1,2 @@
+LangChain is a framework that simplifies building applications using large language models.
+It supports prompt templates, agents, tools, memory, document loaders, and vector stores.
